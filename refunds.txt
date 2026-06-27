@@ -1,0 +1,2 @@
+Refunded customer cust123 for reason Customer requested refund for plan 399 due to shifting to a new place.
+Refunded customer cust123 for reason Immediate refund requested for plan 399 due to moving to a new place.
